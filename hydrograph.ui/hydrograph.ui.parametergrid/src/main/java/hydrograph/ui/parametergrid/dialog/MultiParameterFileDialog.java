@@ -124,7 +124,7 @@ import hydrograph.ui.propertywindow.widgets.utility.WidgetUtility;
 
 /**
  * 
- * UI for multi parameter file dialog
+ * UI for parameter file dialog
  * 
  * @author Bitwise
  * 
